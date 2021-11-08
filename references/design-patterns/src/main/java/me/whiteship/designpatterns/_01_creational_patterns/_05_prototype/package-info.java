@@ -1,0 +1,1 @@
+package me.whiteship.designpatterns._01_creational_patterns._05_prototype;
